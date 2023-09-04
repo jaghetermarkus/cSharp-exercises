@@ -127,7 +127,7 @@ do
     Console.Write("Vill du lägga till en till person? (y/n): ");
     answer = Console.ReadLine();
 
-} while (answer.ToLower() == "y");
+} while (answer!.ToLower() == "y");
 
 Console.WriteLine("Här är alla kontaktpersoner");
 foreach (var contact in contactPersons)

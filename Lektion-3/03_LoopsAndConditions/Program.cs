@@ -1,5 +1,4 @@
 ﻿
-
 /*  IF STATEMENT (Operander)
 ------------------------------------------------------------------------
 ==          lika med
@@ -13,8 +12,20 @@
 !           om det inte är det här
 ??          om första värdet är null -> välj det andra
 
+/*ARRAYS
+----------------------------------------------------
+En array är en statisk lista med fixerat antal platser som man varken kan lägga till nya eller ta bort men det går att byta ut information i en speciifik plats. 
 
-**** OLIKA SÄTT ATT SKRIVA IF-SATSER PÅ ****
+string[] names = new string[] { "Hans", "Tommy", "Joakim", "Jeanette" };
+string[] names = new string[10];
+names[0] = "Hans";
+names[4] = "Tommy";
+names[9] = "Anki";
+
+*/
+
+/*IF-SATSER
+--------------------------------
 1.  if (true) {}
 
 2.  if (true) {} else {}
@@ -61,6 +72,10 @@ if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName))
 }
 
 
+*/
+
+/* SWITCH
+--------------------------------
 string key = "black";
 
 switch (key)
@@ -85,8 +100,6 @@ switch (key)
 // Switch är effektivare än if då den inte testar varje alternativ i ordning uppifrån och ned. Den ser vilket det rätta värdet är och går direkt dit och annars till default om ingen matchning finns
 // Kan endast använda == tester. Inte &&, !, < osv...
 // Switch är bra vid ex. meny/flikalternativ i ett program.
-
-
 
 
 */
@@ -139,15 +152,6 @@ foreach (var name in names)
 //{
 //    Console.WriteLine(names[i]);
 //}
-
-*/
-
-/*ARRAYS
-----------------------------------------------------
-
-En array är
-
-????????????????????????
 
 */
 
