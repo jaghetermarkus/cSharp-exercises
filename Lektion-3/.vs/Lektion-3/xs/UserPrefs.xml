@@ -1,7 +1,33 @@
-﻿<Properties StartupConfiguration="{B15A92DB-D349-4D6D-AD9C-EFA478376608}|Default">
+﻿<Properties StartupConfiguration="{1DD5822F-9C4C-4101-AD1B-93ED4BB4CFA9}|Default">
   <MonoDevelop.Ide.ItemProperties.01__Datatypes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04__ClassesAndLists FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.04__ClassesAndLists PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03__LoopsAndConditions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_ClassesAndLists/Program.cs">
+    <Files>
+      <File FileName="01_Datatypes/Program.cs" Line="113" Column="1" />
+      <File FileName="02_NamingConventions/Program.cs" Line="4" Column="1" />
+      <File FileName="03_LoopsAndConditions/Program.cs" Line="194" Column="3" />
+      <File FileName="04_ClassesAndLists/Program.cs" Line="111" Column="1" />
+      <File FileName="04_ClassesAndLists/Models/ContactPerson.cs" Line="12" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lektion-3">
+            <Node name="04_ClassesAndLists">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.02__NamingConventions FirstBuild="True" />
 </Properties>
