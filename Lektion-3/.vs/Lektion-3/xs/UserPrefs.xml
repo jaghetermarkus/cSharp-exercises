@@ -1,4 +1,6 @@
 ﻿<Properties StartupConfiguration="{EB6843FE-2E33-4960-8A9F-B506581304DE}|Default">
-  <MonoDevelop.Ide.ItemProperties.01__Datatypes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.01__Datatypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03__LoopsAndConditions FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02__NamingConventions FirstBuild="True" />
 </Properties>

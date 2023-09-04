@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/bin/Debug/net7.0/03_LoopsAndConditions
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/bin/Debug/net7.0/03_LoopsAndConditions.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/bin/Debug/net7.0/03_LoopsAndConditions.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/bin/Debug/net7.0/03_LoopsAndConditions.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/bin/Debug/net7.0/03_LoopsAndConditions.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/refint/03_LoopsAndConditions.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/03_LoopsAndConditions.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/03_LoopsAndConditions/obj/Debug/net7.0/ref/03_LoopsAndConditions.dll
