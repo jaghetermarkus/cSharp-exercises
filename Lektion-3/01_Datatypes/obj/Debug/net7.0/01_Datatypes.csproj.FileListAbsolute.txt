@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/bin/Debug/net7.0/01_Datatypes
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/bin/Debug/net7.0/01_Datatypes.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/bin/Debug/net7.0/01_Datatypes.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/bin/Debug/net7.0/01_Datatypes.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/bin/Debug/net7.0/01_Datatypes.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/refint/01_Datatypes.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/01_Datatypes.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/01_Datatypes/obj/Debug/net7.0/ref/01_Datatypes.dll
