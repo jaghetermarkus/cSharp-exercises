@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/bin/Debug/net7.0/04_ClassesAndLists.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/refint/04_ClassesAndLists.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/04_ClassesAndLists.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-3/04_ClassesAndLists/obj/Debug/net7.0/ref/04_ClassesAndLists.dll
