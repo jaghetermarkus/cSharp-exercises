@@ -133,7 +133,7 @@ for (int i = 0; i < 10; i++)
 
 /*FOREACH-LOOP
 ----------------------------------------------------
-gör något för varje värde/ objekt i en lista/array
+gör något för varje värde/objekt i en lista/array
 
 //Array - Det går inte lägga till/ta bort värdet i en array. Det går att ändra i befintliga fält däremot. 
 

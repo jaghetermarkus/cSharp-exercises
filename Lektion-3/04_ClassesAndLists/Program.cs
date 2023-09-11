@@ -17,7 +17,6 @@ ICollection         ReadWrite       Lägga till, ta bort, sortera
 
 * I = Betyder Interface och har då en uppsättning av funktioner vi kan komma åt och göra några med.
 
-
 List<string> list_1 = new List<string>();
 list_1.Add("1");
 list_1.Remove("1");
@@ -56,6 +55,7 @@ list_4.Clear();
 list_4.FirstOrDefault();
 list_4.LastOrDefault();
 list_4.Insert(0, "1");
+
 
 
 
