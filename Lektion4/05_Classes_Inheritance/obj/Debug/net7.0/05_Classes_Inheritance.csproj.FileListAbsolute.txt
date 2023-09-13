@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/bin/Debug/net7.0/05_Classes_Inheritance
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/bin/Debug/net7.0/05_Classes_Inheritance.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/bin/Debug/net7.0/05_Classes_Inheritance.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/bin/Debug/net7.0/05_Classes_Inheritance.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/bin/Debug/net7.0/05_Classes_Inheritance.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/refint/05_Classes_Inheritance.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/05_Classes_Inheritance.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/05_Classes_Inheritance/obj/Debug/net7.0/ref/05_Classes_Inheritance.dll

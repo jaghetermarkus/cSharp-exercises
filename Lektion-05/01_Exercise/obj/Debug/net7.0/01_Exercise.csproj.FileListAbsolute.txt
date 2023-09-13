@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/bin/Debug/net7.0/01_Exercise
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/bin/Debug/net7.0/01_Exercise.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/bin/Debug/net7.0/01_Exercise.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/bin/Debug/net7.0/01_Exercise.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/bin/Debug/net7.0/01_Exercise.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/refint/01_Exercise.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/01_Exercise.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-05/01_Exercise/obj/Debug/net7.0/ref/01_Exercise.dll

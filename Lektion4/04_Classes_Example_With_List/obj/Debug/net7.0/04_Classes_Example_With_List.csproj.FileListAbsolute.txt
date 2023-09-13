@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/bin/Debug/net7.0/04_Classes_Example_With_List
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/bin/Debug/net7.0/04_Classes_Example_With_List.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/bin/Debug/net7.0/04_Classes_Example_With_List.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/bin/Debug/net7.0/04_Classes_Example_With_List.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/bin/Debug/net7.0/04_Classes_Example_With_List.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/refint/04_Classes_Example_With_List.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/04_Classes_Example_With_List.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/04_Classes_Example_With_List/obj/Debug/net7.0/ref/04_Classes_Example_With_List.dll

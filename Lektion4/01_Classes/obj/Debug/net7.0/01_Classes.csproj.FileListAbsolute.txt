@@ -1,0 +1,5 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/01_Classes/obj/Debug/net7.0/01_Classes.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/01_Classes/obj/Debug/net7.0/01_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/01_Classes/obj/Debug/net7.0/01_Classes.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/01_Classes/obj/Debug/net7.0/01_Classes.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion4/01_Classes/obj/Debug/net7.0/01_Classes.csproj.CoreCompileInputs.cache
