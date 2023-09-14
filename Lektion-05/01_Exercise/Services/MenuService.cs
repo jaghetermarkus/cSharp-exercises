@@ -55,9 +55,6 @@ internal class MenuService : IMenuService
         } while (exit == false);
     }
 
-
-
-
     public void CreateMenu()
     {
         string answer = "n";
