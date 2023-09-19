@@ -1,0 +1,17 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/bin/Debug/net7.0/01_SaveAndReadToFromFile
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/bin/Debug/net7.0/01_SaveAndReadToFromFile.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/bin/Debug/net7.0/01_SaveAndReadToFromFile.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/bin/Debug/net7.0/01_SaveAndReadToFromFile.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/bin/Debug/net7.0/01_SaveAndReadToFromFile.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.csproj.CopyComplete
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/refint/01_SaveAndReadToFromFile.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/01_SaveAndReadToFromFile.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/01_SaveAndRead/obj/Debug/net7.0/ref/01_SaveAndReadToFromFile.dll

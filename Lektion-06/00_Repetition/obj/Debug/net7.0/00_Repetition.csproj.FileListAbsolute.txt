@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/bin/Debug/net7.0/00_Repetition
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/bin/Debug/net7.0/00_Repetition.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/bin/Debug/net7.0/00_Repetition.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/bin/Debug/net7.0/00_Repetition.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/bin/Debug/net7.0/00_Repetition.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/refint/00_Repetition.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/00_Repetition.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/00_Repetition/obj/Debug/net7.0/ref/00_Repetition.dll

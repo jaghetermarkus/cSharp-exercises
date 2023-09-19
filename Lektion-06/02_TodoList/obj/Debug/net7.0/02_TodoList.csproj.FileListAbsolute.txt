@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/bin/Debug/net7.0/02_TodoList
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/bin/Debug/net7.0/02_TodoList.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/bin/Debug/net7.0/02_TodoList.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/bin/Debug/net7.0/02_TodoList.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/bin/Debug/net7.0/02_TodoList.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/refint/02_TodoList.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/02_TodoList.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-06/02_TodoList/obj/Debug/net7.0/ref/02_TodoList.dll
