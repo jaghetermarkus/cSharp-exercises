@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/bin/Debug/net7.0/02_Structs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/bin/Debug/net7.0/02_Structs.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/bin/Debug/net7.0/02_Structs.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/bin/Debug/net7.0/02_Structs.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/bin/Debug/net7.0/02_Structs.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/refint/02_Structs.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/02_Structs.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/02_Structs/obj/Debug/net7.0/ref/02_Structs.dll

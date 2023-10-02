@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nodd3q7DcUcEYP3/eA/lwwCF5Fsczmhfj7zJkc0+hgEk9M4iH3tTPzjg30mDODd9rbk/+wgJ94sCaZEwJnuLHg==",
+  "success": true,
+  "projectFilePath": "/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/01_Assignment_Example.csproj",
+  "expectedPackageFiles": [
+    "/Users/markuskarlsson/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

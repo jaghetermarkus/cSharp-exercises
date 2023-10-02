@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/bin/Debug/net7.0/01_Assignment_Example
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/bin/Debug/net7.0/01_Assignment_Example.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/bin/Debug/net7.0/01_Assignment_Example.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/bin/Debug/net7.0/01_Assignment_Example.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/bin/Debug/net7.0/01_Assignment_Example.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/refint/01_Assignment_Example.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/01_Assignment_Example.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/01_Assignment_Example/obj/Debug/net7.0/ref/01_Assignment_Example.dll

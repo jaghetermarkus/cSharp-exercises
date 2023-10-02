@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/bin/Debug/net7.0/02_AsyncAwait
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/bin/Debug/net7.0/02_AsyncAwait.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/bin/Debug/net7.0/02_AsyncAwait.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/bin/Debug/net7.0/02_AsyncAwait.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/bin/Debug/net7.0/02_AsyncAwait.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/refint/02_AsyncAwait.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/02_AsyncAwait.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-09/02_AsyncAwait/obj/Debug/net7.0/ref/02_AsyncAwait.dll

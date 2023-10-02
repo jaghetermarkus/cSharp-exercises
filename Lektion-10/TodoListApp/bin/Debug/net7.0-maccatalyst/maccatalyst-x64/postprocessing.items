@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TodoListApp.app/Contents/MacOS/TodoListApp">
+      <BCSymbolMapName>TodoListApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TodoListApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-10/TodoListApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>TodoListApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-10/TodoListApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

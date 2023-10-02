@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/bin/Debug/net7.0/01_DataLogging
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/bin/Debug/net7.0/01_DataLogging.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/bin/Debug/net7.0/01_DataLogging.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/bin/Debug/net7.0/01_DataLogging.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/bin/Debug/net7.0/01_DataLogging.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/refint/01_DataLogging.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/01_DataLogging.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-08/01_DataLogging/obj/Debug/net7.0/ref/01_DataLogging.dll

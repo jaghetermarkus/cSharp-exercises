@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{87F791DE-F017-4EC5-8778-0D64A2A4C238}|Default">
+  <MonoDevelop.Ide.ItemProperties.04__DataLogging PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_DataLogging/Tests/UnitTests/DataLoggerTests.cs">
+    <Files>
+      <File FileName="04_DataLogging/Program.cs" />
+      <File FileName="04_DataLogging/Interfaces/IFileHandler.cs" />
+      <File FileName="04_DataLogging/Interfaces/IDataLogger.cs" />
+      <File FileName="04_DataLogging/Tests/UnitTests/FileHandlerTests.cs" />
+      <File FileName="04_DataLogging/Services/FileHandler.cs" />
+      <File FileName="../../../../.nuget/packages/microsoft.net.test.sdk/17.7.2/build/netcoreapp3.1/Microsoft.NET.Test.Sdk.Program.cs" />
+      <File FileName="04_DataLogging/Tests/UnitTests/DataLoggerTests.cs" Line="26" Column="2" />
+      <File FileName="04_DataLogging/Services/DataLogger.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lektion-07" expanded="True">
+            <Node name="04_DataLogging" expanded="True" selected="True">
+              <Node name="Tests" expanded="True">
+                <Node name="UnitTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01__Enums PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__Structs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,41 +1,38 @@
-﻿<Properties StartupConfiguration="{19CCBD2F-3B74-4203-9CAD-0544AC55EDC8}|Unit Tests">
-  <MonoDevelop.Ide.ItemProperties.02__TodoList PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.01__SaveAndReadToFromFile PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{34FD0415-8FA5-449B-A987-4D8A3F445E29}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.00__Repetition PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02_TodoList.Tests/UnitTests/TodoService_Should.cs">
-    <Files>
-      <File FileName="02_TodoList/Interfaces/ITodoService.cs" Line="9" Column="1" />
-      <File FileName="02_TodoList.Tests/UnitTests/TodoService_Should.cs" Line="10" Column="64" />
-      <File FileName="02_TodoList/Interfaces/ITodo.cs" Line="1" Column="1" />
-      <File FileName="02_TodoList/Models/Todo.cs" Line="9" Column="50" />
-      <File FileName="02_TodoList/Services/TodoService.cs" Line="18" Column="23" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.02__TodoList.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02__TodoList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lektion-06" expanded="True">
-            <Node name="02_TodoList.Tests">
-              <Node name="UnitTests">
-                <Node name="TodoService_Should.cs" selected="True" />
+            <Node name="01_SaveAndReadToFromFile" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="02_TodoList">
+              <Node name="Interfaces" expanded="True">
+                <Node name="ITodoService.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="02_TodoList.Tests">
+              <Node name="UnitTests" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Lektion-06">
-            <Node name="02_TodoList.Tests" selected="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.02__TodoList.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01__SaveAndReadToFromFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

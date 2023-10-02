@@ -1,0 +1,15 @@
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/bin/Debug/net7.0/01_Enums
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/bin/Debug/net7.0/01_Enums.deps.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/bin/Debug/net7.0/01_Enums.runtimeconfig.json
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/bin/Debug/net7.0/01_Enums.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/bin/Debug/net7.0/01_Enums.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.csproj.AssemblyReference.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.AssemblyInfoInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.AssemblyInfo.cs
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.csproj.CoreCompileInputs.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/refint/01_Enums.dll
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.pdb
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/01_Enums.genruntimeconfig.cache
+/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-07/01_Enums/obj/Debug/net7.0/ref/01_Enums.dll
