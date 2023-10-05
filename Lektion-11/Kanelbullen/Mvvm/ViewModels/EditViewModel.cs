@@ -16,6 +16,8 @@ public partial class EditViewModel: ObservableObject
         _memberService = memberService;
     }
 
+
+
     [ObservableProperty]
     private string firstName;
 

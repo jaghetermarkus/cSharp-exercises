@@ -16,10 +16,7 @@ public partial class MainViewModel : ObservableObject
     {
         _memberService = memberService;
         Members = new ObservableCollection<MemberModel>();
-        //{
-        //    new MemberModel() {FirstName = "Markus", LastName = "Karlsson", Email = "Markus@domain.com"}
-        //};
-        GetMembers();
+        _memberService.MembersUpdated += GetMembers;
     }
 
     private void GetMembers()
@@ -31,13 +28,21 @@ public partial class MainViewModel : ObservableObject
         }
     }
 
+
     [ObservableProperty]
     private ObservableCollection<MemberModel> members;
 
 
     [RelayCommand]
-    public async Task GoToDetail()
+    public async Task GoToDetail(MemberModel member)
     {
+        /*
+        var viewModel = new DetailViewModel(member.Id);
+        var detailPage = new DetailPage(viewModel);
+        await Shell.Current.Navigation.PushAsync(detailPage);
+
+        //await Shell.Current.GoToAsync($"{nameof(DetailPage)}?memberId={member.Id}");
+        */
         await Shell.Current.GoToAsync(nameof(DetailPage));
     }
 
