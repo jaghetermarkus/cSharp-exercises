@@ -1,25 +1,38 @@
 ﻿<Properties StartupConfiguration="{FD9A869E-CF08-4647-8275-ECA36D086F89}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Kanelbullen/Mvvm/ViewModels/DetailViewModel.cs">
-    <Files>
-      <File FileName="Kanelbullen/Mvvm/Views/MainPage.xaml" />
-      <File FileName="Kanelbullen/Mvvm/ViewModels/MainViewModel.cs" />
-      <File FileName="Kanelbullen/Mvvm/Views/DetailPage.xaml" />
-      <File FileName="Kanelbullen/Mvvm/Views/DetailPage.xaml.cs" />
-      <File FileName="Kanelbullen/Mvvm/ViewModels/DetailViewModel.cs" Line="18" Column="30" />
-      <File FileName="Kanelbullen/Services/MemberService.cs" />
-      <File FileName="Kanelbullen/MauiProgram.cs" />
-      <File FileName="Kanelbullen/Platforms/iOS/Program.cs" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-11/Kanelbullen/Mvvm/ViewModels/DetailViewModel.cs" relfile="Kanelbullen/Mvvm/ViewModels/DetailViewModel.cs" line="22" column="1" />
       <Breakpoint file="/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-11/Kanelbullen/Mvvm/ViewModels/MainViewModel.cs" relfile="Kanelbullen/Mvvm/ViewModels/MainViewModel.cs" line="46" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Kanelbullen PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kanelbullen/Mvvm/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="Kanelbullen/Mvvm/ViewModels/DetailViewModel.cs" Line="21" Column="44" />
+      <File FileName="Kanelbullen/Services/MemberService.cs" Line="27" Column="1" />
+      <File FileName="Kanelbullen/Mvvm/Models/MemberModel.cs" Line="1" Column="1" />
+      <File FileName="Kanelbullen/Mvvm/ViewModels/MainViewModel.cs" Line="6" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lektion-11">
+            <Node name="Kanelbullen">
+              <Node name="Mvvm">
+                <Node name="Models" expanded="True" />
+                <Node name="ViewModels">
+                  <Node name="MainViewModel.cs" selected="True" />
+                </Node>
+                <Node name="Views" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

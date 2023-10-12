@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:CimoApp.Mvvm.ViewModels"
+             x:DataType="{ x:Type viewmodels:EditViewModel }"
+             x:Class="CimoApp.Mvvm.Views.EditPage"
+             Title="EditPage"
+             Shell.NavBarIsVisible="True">
+
+    <VerticalStackLayout>
+            <Grid RowDefinitions="auto,*" Margin="20" BackgroundColor="Azure">
+
+                <VerticalStackLayout Grid.Row="0" Margin="20">
+                    <Label Text="Förnamn" Margin="5,0,0,5" FontSize="16"/>
+                    <Entry Text="{Binding Contact.FirstName}" Margin="0,0,0,20"/>
+        
+                    <Label Text="Efternamn" Margin="5,0,0,5" FontSize="16"/>
+                    <Entry Text="{Binding Contact.LastName}" Margin="0,0,0,20"/>
+            
+                    <Label Text="Mejladress" Margin="5,0,0,5" FontSize="16"/>
+                    <Entry Text="{Binding Contact.Email}" Margin="0,0,0,20"/>
+
+                    <Label Text="Telefonnummer" Margin="5,0,0,5" FontSize="16"/>
+                    <Entry Text="{Binding Contact.PhoneNumber}" Margin="0,0,0,20"/>
+
+                    <Label Text="Unikt ID" Margin="5,0,0,5" FontSize="16"/>
+                    <Entry Text="{Binding Contact.Id}" IsReadOnly="True" Margin="0,0,0,20" BackgroundColor="LightGrey" />
+                </VerticalStackLayout>
+
+                <Button Text="Spara ändringar" VerticalOptions="End" BackgroundColor="#1d3557" TextColor="#a8dadc" CornerRadius="8" Command="{Binding SaveChangesCommand}" CommandParameter="{Binding .}"/>
+                
+            </Grid>
+    </VerticalStackLayout>
+
+</ContentPage>

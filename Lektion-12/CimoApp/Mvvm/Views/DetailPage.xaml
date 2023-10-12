@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:CimoApp.Mvvm.Models"
+             xmlns:viewmodels="clr-namespace:CimoApp.Mvvm.ViewModels"
+             xmlns:views="clr-namespace:CimoApp.Mvvm.Views"
+             x:DataType="viewmodels:DetailViewModel"
+             x:Class="CimoApp.Mvvm.Views.DetailPage"
+             Title="DetailPage"
+             Shell.NavBarIsVisible="True">
+
+    <Grid x:Name="ContactsList" RowDefinitions="auto,auto,auto" BackgroundColor="#a8dadc" >
+        <Frame Grid.Row="1"
+               Margin="10"
+               CornerRadius="8"
+               BackgroundColor="LightSalmon"
+               BorderColor="#f1faee">
+            <VerticalStackLayout VerticalOptions="FillAndExpand" >
+                <Label Text="{Binding User.FirstName}" />
+                <Label Text="{Binding User.LastName}" />
+                <Label Text="{Binding User.Email}" />
+                <Label Text="{Binding User.PhoneNumber}" />
+            </VerticalStackLayout>
+        </Frame>
+        <Frame Grid.Row="2"
+               Margin="10"
+               CornerRadius="8"
+               BackgroundColor="#457b9d" >
+            <VerticalStackLayout >
+                <Label Text="{Binding Contact.FirstName}" TextColor="#f1faee"/>
+                <Label Text="{Binding Contact.LastName}" TextColor="#f1faee"/>
+                <Label Text="{Binding Contact.Email}" TextColor="#f1faee"/>
+                <Label Text="{Binding Contact.PhoneNumber}" TextColor="#f1faee"/>
+                <Label Text="{Binding Contact.Id}" TextColor="#f1faee"/>
+            </VerticalStackLayout>
+        </Frame>
+                     <Button Margin="10" Grid.Row="0" CornerRadius="6" TextColor="Black" BackgroundColor="Orange" Command="{Binding GoBackCommand}" Text="X" HorizontalOptions="End"  />
+    </Grid>
+
+<!--
+    <CollectionView >
+        <CollectionView.ItemTemplate>
+            <DataTemplate > 
+                <Grid RowDefinitions="auto,*">
+
+
+
+
+
+                </Grid>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+                    -->
+    
+
+</ContentPage>

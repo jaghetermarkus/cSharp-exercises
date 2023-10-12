@@ -19,9 +19,13 @@ public class MemberService
         MembersUpdated.Invoke();
     }
 
-    public List<MemberModel> GetMembersFromList()
+    public List<MemberModel> GetMembersFromList(Guid memberId)
     {
-        return _members;
+        var member = _members.FirstOrDefault(x => x.Id == memberId);
+        if (member != null)
+            return member;
+
+        return null;
     }
     /*
     public List<MemberModel> GetMembersFromList()

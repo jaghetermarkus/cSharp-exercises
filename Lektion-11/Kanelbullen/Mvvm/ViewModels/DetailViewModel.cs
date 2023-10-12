@@ -13,12 +13,12 @@ public partial class DetailViewModel : ObservableObject
     [ObservableProperty]
     private MemberModel member;
 
-    public DetailViewModel(Guid memberId)
+    public DetailViewModel(Guid memberId, MemberService memberService)
     {
         _memberId = memberId;
         _memberService = memberService;
 
-        //Member = _memberService.GetMembersFromList(memberId);
+        var _member = _memberService.GetMembersFromList(memberId);
     }
 }
 

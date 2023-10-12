@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:CimoApp.Mvvm.ViewModels"
+             xmlns:models="clr-namespace:CimoApp.Mvvm.Models"
+             x:DataType="{x:Type viewmodels:MainViewModel}"
+             x:Class="CimoApp.Mvvm.Views.MainPage"
+             Shell.NavBarIsVisible="False">
+
+    <Grid RowDefinitions="auto,*" Padding="30" RowSpacing="20" >
+        <Button Grid.Row="0" CornerRadius="8" TextColor="#1d3557" BackgroundColor="#a8dadc" Command="{Binding DetailCommand}" Text="Details" HorizontalOptions="Start"  />
+        <Button Grid.Row="0" CornerRadius="8" TextColor="White" BackgroundColor="#1d3557" Command="{Binding GoToAddCommand}" Text="+" HorizontalOptions="End"  />
+
+        <CollectionView x:Name="ContactCollection" Grid.Row="1" ItemsSource="{Binding Contacts}" >
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:ContactModel}" >
+                    <Grid RowDefinitions="*" RowSpacing="10" >
+                        <Frame BackgroundColor="#457b9d" CornerRadius="10" HasShadow="False">
+
+                            <Grid RowDefinitions="auto,auto" ColumnDefinitions="auto,auto" ColumnSpacing="1" >
+                                <Label Grid.Row="0" Grid.Column="0" Text="{Binding FirstName}" />
+                                <Label Grid.Row="0" Grid.Column="1" Text="{Binding LastName}" />
+                                <Label Grid.Row="1" Grid.ColumnSpan="2" Text="{Binding Email}" />
+
+                                <Grid.GestureRecognizers>
+                                    <TapGestureRecognizer
+                                        CommandParameter="{Binding .}"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:MainViewModel}}, Path=GoToDetailCommand}"/> 
+                                </Grid.GestureRecognizers>
+
+
+                            </Grid>
+                        </Frame>
+                        <HorizontalStackLayout HorizontalOptions="End">
+
+
+                                <Button CornerRadius="8"
+                                        TextColor="#f1faee"
+                                        BackgroundColor="#e63946"
+                                        Text="Delete"
+                                        HorizontalOptions="End"
+                                        Margin="10"
+                                        Command="{Binding Source={x:Reference ContactCollection}, Path=BindingContext.DeleteContactCommand}"
+                                        CommandParameter="{Binding .}" />
+
+                        <Button CornerRadius="8"
+                                        TextColor="#f1faee"
+                                        BackgroundColor="Orange"
+                                        Text="Update"
+                                        HorizontalOptions="Start"
+                                        Margin="10"
+                                        Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodels:MainViewModel}}, Path=GoToUpdateCommand}"
+                                        CommandParameter="{Binding .}" />
+
+                        </HorizontalStackLayout>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+
+</ContentPage>
+

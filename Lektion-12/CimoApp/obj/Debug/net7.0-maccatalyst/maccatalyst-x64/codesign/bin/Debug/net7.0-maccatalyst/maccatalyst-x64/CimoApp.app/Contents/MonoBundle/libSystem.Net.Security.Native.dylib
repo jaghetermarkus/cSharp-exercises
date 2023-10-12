@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/CimoApp.app/Contents/MonoBundle/libSystem.Net.Security.Native.dylib

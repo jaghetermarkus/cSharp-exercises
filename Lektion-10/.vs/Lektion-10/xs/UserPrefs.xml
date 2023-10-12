@@ -1,18 +1,22 @@
 ﻿<Properties StartupConfiguration="{E44730B6-7C6A-4C17-B856-839013E55597}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TodoListApp PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoListApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="TodoListApp/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="TodoListApp/MainPage.xaml.cs" Line="33" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lektion-10" expanded="True">
+          <Node name="Lektion-10">
             <Node name="TodoListApp">
-              <Node name="Models" expanded="True">
-                <Node name="Todo.cs" selected="True" />
-              </Node>
-              <Node name="Platforms" expanded="True">
-                <Node name="MacCatalyst" expanded="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
@@ -20,10 +24,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
