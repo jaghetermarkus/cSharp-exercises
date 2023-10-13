@@ -1,7 +1,5 @@
-﻿using System.ComponentModel;
-using CimoApp.Mvvm.Models;
+﻿using CimoApp.Mvvm.Models;
 using CimoApp.Mvvm.ViewModels;
-using CommunityToolkit.Mvvm.Input;
 
 namespace CimoApp.Mvvm.Views;
 

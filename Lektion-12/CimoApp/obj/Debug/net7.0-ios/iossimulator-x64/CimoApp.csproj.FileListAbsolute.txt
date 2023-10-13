@@ -277,4 +277,3 @@
 /Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/obj/Debug/net7.0-ios/iossimulator-x64/resizetizer/r/plus@3x.png
 /Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/bin/Debug/net7.0-ios/iossimulator-x64/AutoMapper.dll
 /Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/bin/Debug/net7.0-ios/iossimulator-x64/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/obj/Debug/net7.0-ios/iossimulator-x64/resourcestamps/AutoMapper.stamp

@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using CimoApp.Mvvm.Models;
+using Newtonsoft.Json;
 
 namespace CimoApp.Services;
 
@@ -18,11 +19,16 @@ public class ContactService
     public static void AddToList(ContactModel contact)
     {
         contacts.Add(contact);
+        JsonService.SaveToJson(JsonConvert.SerializeObject(contacts));
         ContactsUpdated.Invoke();
     }
 
     public static List<ContactModel> GetContacts()
     {
+        var content = JsonService.ReadFromJson();
+        if (!string.IsNullOrEmpty(content))
+            contacts = JsonConvert.DeserializeObject<List<ContactModel>>(content)!;
+
         return contacts;
     }
 
@@ -41,6 +47,8 @@ public class ContactService
         {
         contacts.Remove(contact);
         }
+        JsonService.SaveToJson(JsonConvert.SerializeObject(contacts));
+        ContactsUpdated.Invoke();
     }
 
     public void UpdateContact(ContactModel updatedContact)
@@ -56,12 +64,14 @@ public class ContactService
             existingContact.Email = updatedContact.Email;
             existingContact.PhoneNumber = updatedContact.PhoneNumber;
         }
+        
         OnContactsUpdated();
         
     }
 
     protected virtual void OnContactsUpdated()
     {
+        JsonService.SaveToJson(JsonConvert.SerializeObject(contacts));
         ContactsUpdated?.Invoke();
     }
 
