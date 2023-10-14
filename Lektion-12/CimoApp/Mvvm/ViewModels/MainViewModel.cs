@@ -7,6 +7,7 @@ using CommunityToolkit.Mvvm.Input;
 
 namespace CimoApp.Mvvm.ViewModels;
 
+
 public partial class MainViewModel : ObservableObject
 {
     [ObservableProperty]
@@ -17,9 +18,7 @@ public partial class MainViewModel : ObservableObject
     {
         UpdateContacts();
         ContactService.ContactsUpdated += UpdateContacts;
-
     }
-
 
     void UpdateContacts()
     {
@@ -28,14 +27,6 @@ public partial class MainViewModel : ObservableObject
             foreach (var contact in ContactService.GetContacts())
                 Contacts.Add(contact);
     }
-
-    /* LoadContact ??
-    public async Task LoadContact(string contactEmail)
-    {
-        await ContactService.LoadContactByEmail(contactEmail);
-    }
-    */
-
 
 
     [RelayCommand]

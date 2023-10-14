@@ -6,7 +6,9 @@
              x:Class="CimoApp.Mvvm.Views.EditPage"
              Title="EditPage"
              Shell.NavBarIsVisible="True">
-
+    <ContentPage.BindingContext>
+        <viewmodels:EditViewModel />
+    </ContentPage.BindingContext>
     <VerticalStackLayout>
             <Grid RowDefinitions="auto,*" Margin="20" BackgroundColor="Azure">
 
@@ -26,8 +28,11 @@
                     <Label Text="Unikt ID" Margin="5,0,0,5" FontSize="16"/>
                     <Entry Text="{Binding Contact.Id}" IsReadOnly="True" Margin="0,0,0,20" BackgroundColor="LightGrey" />
                 </VerticalStackLayout>
-
-                <Button Text="Spara ändringar" VerticalOptions="End" BackgroundColor="#1d3557" TextColor="#a8dadc" CornerRadius="8" Command="{Binding SaveChangesCommand}" CommandParameter="{Binding .}"/>
+                <Button Text="Spara ändringar" VerticalOptions="End" BackgroundColor="#1d3557" TextColor="#a8dadc" CornerRadius="8" Command="{Binding SaveChangesCommand}" CommandParameter="{Binding Contact}"/>
+                <!--
+                DENNA ÄR FEL!  Den måste ändras så den inte hänvisar till EditViewModel utan att DataType faktiskt är ContactModel !
+                -->
+                
                 
             </Grid>
     </VerticalStackLayout>

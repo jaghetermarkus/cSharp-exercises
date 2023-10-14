@@ -51,22 +51,23 @@ public class ContactService
         ContactsUpdated.Invoke();
     }
 
-    public void UpdateContact(ContactModel updatedContact)
+    public static void SaveUpdatedContact(ContactModel updatedContact)
     {
         ContactModel existingContact = contacts.FirstOrDefault(x => x.Id == updatedContact.Id);
 
         if (existingContact != null)
         {
-
             // mapper.Map(updatedContact, existingContact);
             existingContact.FirstName = updatedContact.FirstName;
             existingContact.LastName = updatedContact.LastName;
             existingContact.Email = updatedContact.Email;
             existingContact.PhoneNumber = updatedContact.PhoneNumber;
         }
-        
-        OnContactsUpdated();
-        
+
+        //OnContactsUpdated(); Hur får jag denna att funka trots att den är inuti en static
+        JsonService.SaveToJson(JsonConvert.SerializeObject(contacts));
+        ContactsUpdated.Invoke();
+
     }
 
     protected virtual void OnContactsUpdated()

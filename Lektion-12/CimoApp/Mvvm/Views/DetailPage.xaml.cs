@@ -20,7 +20,7 @@ public partial class DetailPage : ContentPage
 
             if (BindingContext is DetailViewModel viewModel)
             {
-                viewModel.Contact = ContactM;
+                viewModel.ContactC = ContactM;
             }
 
         }
@@ -29,7 +29,7 @@ public partial class DetailPage : ContentPage
 	public DetailPage(DetailViewModel viewModel)
 	{
 		InitializeComponent();
-        viewModel.Contact = ContactM;
+        viewModel.ContactC = ContactM;
         BindingContext = viewModel;
     }
 

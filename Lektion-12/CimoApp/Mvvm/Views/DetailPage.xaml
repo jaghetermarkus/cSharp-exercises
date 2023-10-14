@@ -10,6 +10,7 @@
              Shell.NavBarIsVisible="True">
 
     <Grid x:Name="ContactsList" RowDefinitions="auto,auto,auto" BackgroundColor="#a8dadc" >
+        <!--
         <Frame Grid.Row="1"
                Margin="10"
                CornerRadius="8"
@@ -22,16 +23,18 @@
                 <Label Text="{Binding User.PhoneNumber}" />
             </VerticalStackLayout>
         </Frame>
+        -->
+
         <Frame Grid.Row="2"
                Margin="10"
                CornerRadius="8"
                BackgroundColor="#457b9d" >
             <VerticalStackLayout >
-                <Label Text="{Binding Contact.FirstName}" TextColor="#f1faee"/>
-                <Label Text="{Binding Contact.LastName}" TextColor="#f1faee"/>
-                <Label Text="{Binding Contact.Email}" TextColor="#f1faee"/>
-                <Label Text="{Binding Contact.PhoneNumber}" TextColor="#f1faee"/>
-                <Label Text="{Binding Contact.Id}" TextColor="#f1faee"/>
+                <Label Text="{Binding ContactC.FirstName}" TextColor="#f1faee"/>
+                <Label Text="{Binding ContactC.LastName}" TextColor="#f1faee"/>
+                <Label Text="{Binding ContactC.Email}" TextColor="#f1faee"/>
+                <Label Text="{Binding ContactC.PhoneNumber}" TextColor="#f1faee"/>
+                <Label Text="{Binding ContactC.Id}" TextColor="#f1faee"/>
             </VerticalStackLayout>
         </Frame>
                      <Button Margin="10" Grid.Row="0" CornerRadius="6" TextColor="Black" BackgroundColor="Orange" Command="{Binding GoBackCommand}" Text="X" HorizontalOptions="End"  />

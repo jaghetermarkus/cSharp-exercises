@@ -1,45 +1,30 @@
 ﻿<Properties StartupConfiguration="{49748B0F-0685-41B5-85A3-7BF05EA132B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CimoApp/Mvvm/ViewModels/EditViewModel.cs">
+    <Files>
+      <File FileName="CimoApp/Mvvm/Models/ContactModel.cs" Line="5" Column="1" IsPinned="True" />
+      <File FileName="CimoApp/Mvvm/Views/DetailPage.xaml.cs" />
+      <File FileName="CimoApp/Mvvm/ViewModels/DetailViewModel.cs" />
+      <File FileName="CimoApp/Mvvm/Views/DetailPage.xaml" />
+      <File FileName="CimoApp/Mvvm/ViewModels/MainViewModel.cs" />
+      <File FileName="CimoApp/Mvvm/ViewModels/AddViewModel.cs" />
+      <File FileName="CimoApp/Mvvm/Views/MainPage.xaml.cs" />
+      <File FileName="CimoApp/Mvvm/Views/MainPage.xaml" />
+      <File FileName="CimoApp/Services/ContactService.cs" Line="34" Column="1" />
+      <File FileName="CimoApp/Mvvm/Views/EditPage.xaml.cs" NotebookId="1" />
+      <File FileName="CimoApp/Mvvm/ViewModels/EditViewModel.cs" Line="32" Column="1" NotebookId="1" />
+      <File FileName="CimoApp/Mvvm/Views/EditPage.xaml" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.CimoApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/Mvvm/ViewModels/MainViewModel.cs" relfile="CimoApp/Mvvm/ViewModels/MainViewModel.cs" line="23" column="1" />
+      <Breakpoint file="/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/Mvvm/ViewModels/MainViewModel.cs" relfile="CimoApp/Mvvm/ViewModels/MainViewModel.cs" line="60" column="1" />
+      <Breakpoint file="/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/Mvvm/ViewModels/MainViewModel.cs" relfile="CimoApp/Mvvm/ViewModels/MainViewModel.cs" line="50" column="1" />
+      <Breakpoint file="/Users/markuskarlsson/Nackademin/cSharp/exercises/Lektion-12/CimoApp/Mvvm/ViewModels/AddViewModel.cs" relfile="CimoApp/Mvvm/ViewModels/AddViewModel.cs" line="16" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BA2D4913-0BC0-42AB-9093-10FE8F6AB388" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CimoApp/Mvvm/Views/DetailPage.xaml.cs">
-    <Files>
-      <File FileName="CimoApp/Mvvm/Views/DetailPage.xaml.cs" Line="14" Column="1" />
-      <File FileName="CimoApp/Mvvm/ViewModels/DetailViewModel.cs" Line="40" Column="1" />
-      <File FileName="CimoApp/Mvvm/Views/AddPage.xaml" Line="5" Column="59" />
-      <File FileName="CimoApp/Mvvm/Views/EditPage.xaml" Line="31" Column="1" />
-      <File FileName="CimoApp/Mvvm/Views/EditPage.xaml.cs" Line="25" Column="1" />
-      <File FileName="CimoApp/Mvvm/ViewModels/EditViewModel.cs" Line="21" Column="1" />
-      <File FileName="CimoApp/Mvvm/Views/MainPage.xaml" Line="49" Column="54" />
-      <File FileName="CimoApp/Mvvm/ViewModels/MainViewModel.cs" Line="23" Column="1" />
-      <File FileName="CimoApp/Mvvm/Views/DetailPage.xaml" Line="1" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Lektion-12" expanded="True">
-            <Node name="CimoApp">
-              <Node name="Mvvm" expanded="True">
-                <Node name="ViewModels" expanded="True" />
-                <Node name="Views" expanded="True">
-                  <Node name="AddPage.xaml" expanded="True" />
-                  <Node name="DetailPage.xaml">
-                    <Node name="DetailPage.xaml.cs" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="Services" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CimoApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BA2D4913-0BC0-42AB-9093-10FE8F6AB388" />
 </Properties>

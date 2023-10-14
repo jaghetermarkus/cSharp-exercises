@@ -4,5 +4,122 @@
         <name>CimoApp</name>
     </assembly>
     <members>
+        <member name="T:CimoApp.Mvvm.ViewModels.AddViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.AddViewModel.Contact">
+            <inheritdoc cref="F:CimoApp.Mvvm.ViewModels.AddViewModel.contact"/>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.AddViewModel.addCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.AddViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.AddViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.AddViewModel.Add"/>.</summary>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.AddViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.AddViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.AddViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.AddViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:CimoApp.Mvvm.ViewModels.DetailViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.DetailViewModel.ContactC">
+            <inheritdoc cref="F:CimoApp.Mvvm.ViewModels.DetailViewModel.contactC"/>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.DetailViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.DetailViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.DetailViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.DetailViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:CimoApp.Mvvm.ViewModels.EditViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.EditViewModel.Contact">
+            <inheritdoc cref="F:CimoApp.Mvvm.ViewModels.EditViewModel.contact"/>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.EditViewModel.saveChangesCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.EditViewModel.SaveChangesCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.EditViewModel.SaveChangesCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.EditViewModel.SaveChanges(CimoApp.Mvvm.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="T:CimoApp.Mvvm.ViewModels.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.MainViewModel.Contacts">
+            <inheritdoc cref="F:CimoApp.Mvvm.ViewModels.MainViewModel.contacts"/>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.MainViewModel.goToAddCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.MainViewModel.GoToAddCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.MainViewModel.GoToAddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.MainViewModel.GoToAdd"/>.</summary>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.MainViewModel.goToDetailCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.MainViewModel.GoToDetailCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.MainViewModel.GoToDetailCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.MainViewModel.GoToDetail(CimoApp.Mvvm.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.MainViewModel.goToUpdateCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.MainViewModel.GoToUpdateCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.MainViewModel.GoToUpdateCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.MainViewModel.GoToUpdate(CimoApp.Mvvm.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.MainViewModel.detailCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.MainViewModel.DetailCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.MainViewModel.DetailCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.MainViewModel.Detail(CimoApp.Mvvm.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="F:CimoApp.Mvvm.ViewModels.MainViewModel.deleteContactCommand">
+            <summary>The backing field for <see cref="P:CimoApp.Mvvm.ViewModels.MainViewModel.DeleteContactCommand"/>.</summary>
+        </member>
+        <member name="P:CimoApp.Mvvm.ViewModels.MainViewModel.DeleteContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:CimoApp.Mvvm.ViewModels.MainViewModel.DeleteContact(CimoApp.Mvvm.Models.ContactModel)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ContactC">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ContactC" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ContactC">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ContactC" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
     </members>
 </doc>

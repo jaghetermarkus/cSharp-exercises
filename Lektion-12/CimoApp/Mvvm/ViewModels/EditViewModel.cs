@@ -7,10 +7,23 @@ namespace CimoApp.Mvvm.ViewModels;
 
 public partial class EditViewModel : ObservableObject
 {
-    private readonly ContactService contactService;
 
     [ObservableProperty]
     ContactModel contact = new ContactModel();
+
+    [RelayCommand]
+    async Task SaveChanges(ContactModel updatedContact)
+    {
+        await Shell.Current.GoToAsync("..",
+            new Dictionary<string, object>
+            {
+                { "updatedContact", updatedContact }
+            });
+    }
+
+
+    /*
+    private readonly ContactService contactService;
 
     public EditViewModel(ContactService contactService)
     {
@@ -18,12 +31,14 @@ public partial class EditViewModel : ObservableObject
     }
 
     [RelayCommand]
-    public async Task SaveChanges(ContactModel updatedContact)
+    async Task SaveChanges(ContactModel updatedContact)
     {
-        contactService.UpdateContact(updatedContact);
+        //contactService.UpdateContact(updatedContact);
         await Shell.Current.GoToAsync("..");
     }
+     */
 
-   
+
+
 }
 

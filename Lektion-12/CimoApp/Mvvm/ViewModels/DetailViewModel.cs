@@ -5,10 +5,25 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 
 namespace CimoApp.Mvvm.ViewModels;
+
 public partial class DetailViewModel : ObservableObject
 {
-    public ContactModel User { get; set; }
 
+    [ObservableProperty]
+    ContactModel contactC = new ContactModel();
+
+    [RelayCommand]
+    async Task GoBack()
+    {
+        await Shell.Current.GoToAsync("..");
+    }
+
+}
+
+
+
+    /*
+    public ContactModel User { get; set; }
     public DetailViewModel()
     {
     User = new ContactModel
@@ -20,7 +35,6 @@ public partial class DetailViewModel : ObservableObject
         };
     }
 
-    /*
     private ContactModel contact;
 
     public ContactModel Contact
@@ -30,19 +44,7 @@ public partial class DetailViewModel : ObservableObject
     }
      */
 
-    [ObservableProperty]
-    ContactModel contact = new ContactModel();
-
-
-
 //public ContactModel Contact { get; set; }
-
-[RelayCommand]
-async Task GoBack()
-{
-    await Shell.Current.GoToAsync("..");
-}
-}
 
 /*
     public partial class DetailViewModel : INotifyPropertyChanged
